@@ -356,6 +356,7 @@ with mp_pose.Pose(
     similarity_matrix = cosine_similarity(matrix, pose1_com)
     similarity=np.mean(similarity_matrix)
     
+    
     scor_pose1=(result+result2+result3+result4+result5+result6+result7+result8+result9+result10+result11+result12+result13+result14+result_15+result_16+result_17+result_18+result_19+result_20)/20
     if 95<scor_pose1<100:
       print('score pose with vector',scor_pose1)
