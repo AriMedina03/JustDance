@@ -1,3 +1,2 @@
 # ARIS_626
-Just Dance con media pipe 
-En Landmark se generan los puntos y después se mandan a pose :))
+Just Dance con media pipe, comunicación por web socket a una raspberry Pi
